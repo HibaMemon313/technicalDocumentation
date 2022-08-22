@@ -1,0 +1,30 @@
+.flex-container{
+    display:flex;
+    flex-direction:row;
+  }
+  
+  
+  #Documentation{
+    height:100%;
+    
+    width:40%;
+    overflow-x:hidden; overflow-y:auto;
+  }
+  
+  
+   * {
+      scroll-behavior: smooth;
+    }
+  
+    nav>ul>li{
+      margin-top:30px;
+      font-size:40px
+    }
+  
+  
+  
+  
+    header{
+      font-size:30px;
+      font-weight:bold;
+    }
